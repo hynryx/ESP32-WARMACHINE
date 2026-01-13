@@ -46,7 +46,7 @@ ESP32-based WiFi deauthentication tool with web interface. Capable of disconnect
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/hynryx/ESP32-WARMACHINE.git
-   cd ESP32-Deauther
+   cd ESP32-WARMACHINE
    ```
 
 2. **Open in VSCode (make sure you have been installed PlatformIO extension)**
